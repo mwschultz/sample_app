@@ -22,3 +22,5 @@
 
 .byebug_history
 .rufo
+# Ignore Spring files
+/spring/*.pid
